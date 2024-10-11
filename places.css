@@ -1,0 +1,105 @@
+html{
+    background-image: url(https://geology.com/world/world-map.gif);
+    background-size:cover;
+}
+img{
+    height: 40px;
+    width: 20px;
+}
+.indiana{
+    top: 345px;
+    left: 320px;
+    opacity: 75%;
+    position: absolute;
+}
+.hover-indiana{
+    opacity: 0;
+}
+.hover-indiana:hover{
+    opacity: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.colorado{
+    top: 345px;
+    left: 220px;
+    position: absolute;
+}
+.hover-colorado{
+    opacity: 0;
+    right: 20px;
+    position:absolute;
+}
+.hover-colorado:hover{
+    opacity: 1;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+header{
+    text-align: center;
+    color: aliceblue;
+}
+.alaska{
+    top: 245px;
+    left: 140px;
+    position: absolute;
+}
+.hover-alaska{
+    opacity: 0;
+}
+.hover-alaska:hover{
+    opacity: 1;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.UK{
+    top: 245px;
+    left: 645px;
+    position: absolute;
+}
+.hover-UK{
+    opacity: 0;
+}
+.hover-UK:hover{
+    opacity: 1;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.australia{
+    top: 600px;
+    left: 1200px;
+    position: absolute;
+}
+.hover-australia{
+    opacity: 0;
+}
+.hover-australia:hover{
+    opacity: 1;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.bahamas{
+    top: 450px;
+    left: 400px;
+    position: absolute;
+}
+.hover-bahamas{
+    opacity: 0;
+}
+.hover-bahamas:hover{
+    opacity: 1;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
